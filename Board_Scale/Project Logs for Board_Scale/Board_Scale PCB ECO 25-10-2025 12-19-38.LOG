@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=IO21 Pin=MD1-33
+Added Net: Name=IO21
+Added Pin To Net: NetName=IO22 Pin=MD1-36
+Added Net: Name=IO22
+Added Member To Class: ClassName=Board_Scale Member=Component J3 M20-9990245
+Added Member To Class: ClassName=Board_Scale Member=Component J4 M20-9990245

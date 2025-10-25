@@ -1,0 +1,16 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity,LCSC
+
+"100nF/50V","CAP CER 0.1UF 50V X7R 0603","C1, C5","FP-CC0603-DA-MFG","CMP-2100-03601-2","2","C14663"
+"CL21A226MAQNNNE","Multi-layer Ceramic Capacitor, 22 uF, -55 to 85 degC, 2-Pin SMD (0805), RoHS, Tape and Reel","C2","CAPC2013X140X45LL15T25","CMP-2000-06104-1","1","C45783"
+"1uF","Cap Ceramic 1uF 16V X5R ±10% Pad SMD 0603 +85°C T/R","C4","FP-CL10-IPC_A","CMP-13271-001457-1","1","C1592"
+"M20-9990245","CONN HEADER VERT 2POS 2.54MM","J1, J2, J3, J4","FP-M20-9990245-MFG","CMP-15831-000105-1","4",""
+"M20-9990445","M20-9990445 Conn Unshrouded Header HDR 4 POS 2.54mm Solder ST Thru-Hole Bulk/Loose","J5","FP-M20-9990445-MFG","CMP-00671-05399696-1","1",""
+"ESP32-WROOM-32D","WIFI MODULE 32MBITS SPI FLASH","MD1","FP-ESP32-WROOM-32D-MFG","CMP-194065-000003-1","1","C473012"
+"77311-462K05LF","Male Header, Pitch 2.54 mm, 1 x 5 Position, Height 16.24 mm, Tail Length 3.05 mm, 
+-65 to 125 degC, RoHS, Tape and Reel","P1","FCI-77311-5_V","CMP-1698-00006-1","1",""
+"SS8050","NPN TRANSISTOR 1.5A 40V SOT-23 R","Q1, Q2","FP-SS8050-G-MFG","CMP-20235-000001-1","2","C181160"
+"10KR","Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel","R1, R2, R5","RESC1609X55X30LL15T15","CMP-1012-00623-3","3","C25804"
+"100R","","R3, R4","RESC1608X55X30LL15T15","CMP-2000-00179-1","2","C22775"
+"12KR","Chip Resistor, 12 KOhm, +/- 1%, 100 mW, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel","R7, R8","RESC1608X55X25NL10T15","CMP-1659-00047-2","2","C22790"
+"10R","Chip Resistor, 10 Ohm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel","R9, R10","RESC1608X55X25NL10T15","CMP-1659-00008-4","2","C22859"
+"CH340C","Replacement for Brother P-Touch","U1","SO016","CH340C","1","C7464026"

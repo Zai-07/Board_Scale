@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=IO18 Pin=J5-1
+Removed Pin From Net: NetName=IO5 Pin=J5-2
+Removed Member From Class: ClassName=Board_Scale Member=J5
+Removed Member From Class: ClassName=Board_Scale Member=J6
+Added Pin To Net: NetName=3V3 Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=IO18 Pin=P1-3
+Added Pin To Net: NetName=IO23 Pin=P1-4
+Added Pin To Net: NetName=IO5 Pin=P1-5

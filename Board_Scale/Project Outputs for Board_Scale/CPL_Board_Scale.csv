@@ -1,0 +1,37 @@
+Altium Designer Pick and Place Locations
+C:\Users\user\Documents\JPS\BALANZA\PCB\Board_Scale\Project Outputs for Board_Scale\Pick Place for Board_Scale.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       25/10/25
+Time:       14:45
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"J5","M20-9990445","TopLayer","FP-M20-9990445-MFG","4425.000","4620.000","90","M20-9990445 Conn Unshrouded Header HDR 4 POS 2.54mm Solder ST Thru-Hole Bulk/Loose"
+"J4","M20-9990245","TopLayer","FP-M20-9990245-MFG","4405.000","3890.000","90","CONN HEADER VERT 2POS 2.54MM"
+"J3","M20-9990245","TopLayer","FP-M20-9990245-MFG","4405.000","3650.000","90","CONN HEADER VERT 2POS 2.54MM"
+"P1","77311-462K05LF","TopLayer","FCI-77311-5_V","3525.000","3785.000","90","Male Header, Pitch 2.54 mm, 1 x 5 Position, Height 16.24 mm, Tail Length 3.05 mm, 
+-65 to 125 degC, RoHS, Tape and Reel"
+"U1","CH340C","TopLayer","SO016","4015.000","3720.000","0","Replacement for Brother P-Touch"
+"R10","10R","TopLayer","RESC1608X55X25NL10T15","4165.000","3545.000","0","Chip Resistor, 10 Ohm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R9","10R","TopLayer","RESC1608X55X25NL10T15","4055.000","3540.000","0","Chip Resistor, 10 Ohm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R8","12KR","TopLayer","RESC1608X55X25NL10T15","4165.000","3925.000","90","Chip Resistor, 12 KOhm, +/- 1%, 100 mW, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R7","12KR","TopLayer","RESC1608X55X25NL10T15","3830.000","3925.000","90","Chip Resistor, 12 KOhm, +/- 1%, 100 mW, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R5","10KR","TopLayer","RESC1609X55X30LL15T15","4220.000","3920.000","270","Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R4","100R","TopLayer","RESC1608X55X30LL15T15","4445.000","4120.000","90",""
+"R3","100R","TopLayer","RESC1608X55X30LL15T15","3530.000","4595.000","0",""
+"R2","10KR","TopLayer","RESC1609X55X30LL15T15","4385.000","4120.000","90","Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R1","10KR","TopLayer","RESC1609X55X30LL15T15","3530.000","4655.000","0","Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"Q2","SS8050","TopLayer","FP-SS8050-G-MFG","3925.000","3940.000","0","NPN TRANSISTOR 1.5A 40V SOT-23 R"
+"Q1","SS8050","TopLayer","FP-SS8050-G-MFG","4065.000","3940.000","0","NPN TRANSISTOR 1.5A 40V SOT-23 R"
+"MD1","ESP32-WROOM-32D","TopLayer","FP-ESP32-WROOM-32D-MFG","3964.646","4455.315","0","WIFI MODULE 32MBITS SPI FLASH"
+"J2","M20-9990245","TopLayer","FP-M20-9990245-MFG","4425.000","4300.000","270","CONN HEADER VERT 2POS 2.54MM"
+"J1","M20-9990245","TopLayer","FP-M20-9990245-MFG","3515.000","4445.000","270","CONN HEADER VERT 2POS 2.54MM"
+"C5","100nF/50V","TopLayer","FP-CC0603-DA-MFG","3940.472","3540.000","180","CAP CER 0.1UF 50V X7R 0603"
+"C4","1uF","TopLayer","FP-CL10-IPC_A","3750.000","3945.000","90","Cap Ceramic 1uF 16V X5R ±10% Pad SMD 0603 +85°C T/R"
+"C2","CL21A226MAQNNNE","TopLayer","CAPC2013X140X45LL15T25","3515.000","4725.000","0","Multi-layer Ceramic Capacitor, 22 uF, -55 to 85 degC, 2-Pin SMD (0805), RoHS, Tape and Reel"
+"C1","100nF/50V","TopLayer","FP-CC0603-DA-MFG","3515.000","4795.000","180","CAP CER 0.1UF 50V X7R 0603"
